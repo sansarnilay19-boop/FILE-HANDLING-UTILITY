@@ -2,7 +2,7 @@
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
-*NAME*: NILAY MAHORE
+*NAME*: NILAY SAGAR MAHORE
 
 *INTERN ID*: CTIS6023
 
@@ -33,3 +33,5 @@ Overall, this task provides practical exposure to Java file handling concepts an
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/d373d2ae-8894-4678-84eb-a5f4e83d1494" />
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/785006be-2804-4112-8e38-bb18ded9ff28" />
+
+##PDF: [CODTECH IT SOLUTIONS nilay.docx](https://github.com/user-attachments/files/27610409/CODTECH.IT.SOLUTIONS.nilay.docx)
